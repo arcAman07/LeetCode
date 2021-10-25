@@ -1,3 +1,3 @@
 # LeetCode
 
-My journey of solving CC problems on Leetcode.
+My journey of solving Compettive  problems on Leetcode.
