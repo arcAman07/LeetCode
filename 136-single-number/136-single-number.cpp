@@ -13,7 +13,7 @@ public:
         }
         return nums[nums.size()-1];
     }
-        return nums[0];
+        return nums[nums.size()-1];
         }
         
 };
