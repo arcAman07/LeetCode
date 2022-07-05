@@ -12,7 +12,6 @@ public:
                 sum += b;
                 a = a/10;
             }
-            cout<<sum<<endl;
             if (sum%2 == 0)
             {
                 total += 1;
